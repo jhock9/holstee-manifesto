@@ -1,0 +1,89 @@
+/***** BASE STYLES *****/
+
+body { 
+	width: 440px;
+	height: 1100px;
+	font-family: 'Nunito', sans-serif;
+	text-align: center;
+	border: 10px solid #9494b8;
+}
+
+span {
+	font-family: 'Josefin Slab', serif;
+}
+
+/***** COLUMNS *****/
+
+#column-left {
+	width: 220px;
+	float: left;
+}
+
+#column-right {
+	width: 220px;
+	float: left;
+}
+
+/***** BOXES *****/
+
+#large-box-one {
+	background: #538cc6;
+	font-size: 22px;
+	height: 420px;
+	padding: 10px;
+}
+
+#large-box-two {
+	background: #538cc6;
+	font-size: 23px;
+	height: 420px;
+	padding: 10px;
+}
+
+#small-box-one {
+	background: #ff944d;
+	font-size: 20px;
+	height: 190px;
+	padding: 15px;
+}
+
+#small-box-two {
+	background: #ffe680;
+	font-size: 20px;
+	height: 100px;
+	padding-top: 60px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 60px;
+}
+
+#small-box-three {
+	background: #ffffb3;
+	font-size: 20px;
+	height: 120px;
+	padding-top: 50px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 50px;
+}
+
+#small-box-four {
+	background: #ff944d;
+	font-size: 20px;
+	height: 200px;
+	padding: 10px;
+}
+
+#small-box-five {
+	background: #ffe680;
+	font-size: 20px;
+	height: 200px;
+	padding: 10px;
+}
+
+#small-box-six {
+	background: #ffffb3;
+	font-size: 20px;
+	height: 180px;
+	padding: 20px;
+}
