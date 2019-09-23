@@ -1,89 +1,89 @@
 /***** BASE STYLES *****/
 
 body { 
-	width: 440px;
-	height: 1100px;
-	font-family: 'Nunito', sans-serif;
+	width: 520px;
+	height: 935px;
+	border: 10px solid #538cc6;
+	font-family: 'Kanit', sans-serif;
+	font-size: 18px;
+	line-height: 24px;
 	text-align: center;
-	border: 10px solid #9494b8;
 }
 
 span {
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 18px;
+	line-height: 24px;
+	text-transform: uppercase;
+	color: #ff944d;
 }
 
 /***** COLUMNS *****/
 
 #column-left {
-	width: 220px;
+	width: 260px;
 	float: left;
 }
 
 #column-right {
-	width: 220px;
+	width: 260px;
 	float: left;
 }
 
 /***** BOXES *****/
 
 #large-box-one {
-	background: #538cc6;
-	font-size: 22px;
-	height: 420px;
-	padding: 10px;
+	border: 8px solid #ffe680;
+	height: 315px;
+	padding: 5px 10px;
+	margin: 10px 5px 10px 10px;
 }
 
 #large-box-two {
-	background: #538cc6;
-	font-size: 23px;
-	height: 420px;
-	padding: 10px;
+	border: 8px solid #ffe680;
+	height: 280px;
+	padding: 5px 10px;
+	margin: 10px 10px 10px 5px;
 }
 
-#small-box-one {
-	background: #ff944d;
-	font-size: 20px;
-	height: 190px;
-	padding: 15px;
+#left-small-one {
+	border: 8px solid #ffe680;
+	height: 160px;
+	padding: 0 15px;
+	margin: 10px 5px 10px 10px;
 }
 
-#small-box-two {
-	background: #ffe680;
-	font-size: 20px;
-	height: 100px;
-	padding-top: 60px;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-bottom: 60px;
+#left-small-two {
+	border: 8px solid #ffe680;
+	height: 150px;
+	padding: 30px 10px 0 10px;
+	margin: 10px 5px 10px 10px;
 }
 
-#small-box-three {
-	background: #ffffb3;
-	font-size: 20px;
-	height: 120px;
-	padding-top: 50px;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-bottom: 50px;
+#left-small-three {
+	border: 8px solid #ffe680;
+	height: 135px;
+	padding: 20px 10px 0 10px;
+	margin: 10px 5px 10px 10px;
 }
 
-#small-box-four {
-	background: #ff944d;
-	font-size: 20px;
-	height: 200px;
-	padding: 10px;
+#right-small-one {
+	border: 8px solid #ffe680;
+	height: 185px;
+	padding: 0 10px;
+	margin: 10px 10px 10px 5px;
 }
 
-#small-box-five {
-	background: #ffe680;
-	font-size: 20px;
-	height: 200px;
-	padding: 10px;
+#right-small-two {
+	border: 8px solid #ffe680;
+	height: 185px;
+	padding: 0 10px;
+	margin: 10px 10px 10px 5px;
 }
 
-#small-box-six {
-	background: #ffffb3;
-	font-size: 20px;
-	height: 180px;
-	padding: 20px;
+#right-small-three {
+	border: 8px solid #ffe680;
+	height: 160px;
+	padding: 0 15px;
+	margin: 10px 10px 10px 5px;
 }
