@@ -12,7 +12,7 @@ The Holstee Manifesto is a reminder to live life to the fullest, pursue one's dr
 
 ## Usage
 
-To use the application, simply open the `index.html` file in your web browser.
+To use the application, visit the following link: [https://jhock9.github.io/holstee-manifesto/](https://jhock9.github.io/holstee-manifesto/)
 
 ## Contact
 
